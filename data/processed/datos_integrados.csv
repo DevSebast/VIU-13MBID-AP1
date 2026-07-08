@@ -1,4 +1,4 @@
-id_cliente,importe_solicitado,duracion_credito,situacion_vivienda,ingresos,objetivo_credito,pct_ingreso,tasa_interes,falta_pago,antiguedad_cliente,estado_cliente,gastos_ult_12m,genero,limite_credito_tc,nivel_educativo,operaciones_ult_12m,personas_a_cargo,estado_civil_N,estado_credito_N,antiguedad_empleado,edad
+id_cliente,importe_solicitado,duracion_credito,situacion_vivienda,ingresos,objetivo_credito,pct_ingreso,tasa_interes,falta_pago,antiguedad_cliente,estado_cliente,gastos_ult_12m,genero,limite_credito_tc,nivel_educativo,operaciones_ult_12m,personas_a_cargo,estado_civil_N,estado_credito_N,antiguedad_empleado_N,edad_N
 713061558.0,35000,3,ALQUILER,59000,PERSONAL,0.59,16.02,Y,36.0,ACTIVO,1088.0,M,4010.0,UNIVERSITARIO_COMPLETO,24.0,2.0,C,C,NA,menor_25
 768805383.0,1000,2,PROPIA,9600,EDUCACIÓN,0.1,11.14,N,39.0,ACTIVO,1144.0,M,12691.0,SECUNDARIO_COMPLETO,42.0,3.0,C,P,5_a_10,menor_25
 818770008.0,5500,3,HIPOTECA,9600,SALUD,0.57,12.87,N,44.0,ACTIVO,1291.0,F,8256.0,UNIVERSITARIO_COMPLETO,33.0,5.0,S,C,menor_5,25_a_30
