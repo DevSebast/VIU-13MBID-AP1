@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sunnyappco/Documents/VIU-13MBID-AP1/mlruns/419831325497007959/577f3e627f994f5a93c977eb1055d9ca/artifacts
+end_time: 1783489615329
+entry_point_name: ''
+experiment_id: '419831325497007959'
+lifecycle_stage: active
+run_id: 577f3e627f994f5a93c977eb1055d9ca
+run_name: clean-roo-400
+run_uuid: 577f3e627f994f5a93c977eb1055d9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783489608560
+status: 3
+tags: []
+user_id: sunnyappco

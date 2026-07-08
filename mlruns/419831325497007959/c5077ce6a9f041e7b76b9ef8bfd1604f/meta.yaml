@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sunnyappco/Documents/VIU-13MBID-AP1/mlruns/419831325497007959/c5077ce6a9f041e7b76b9ef8bfd1604f/artifacts
+end_time: 1783489168248
+entry_point_name: ''
+experiment_id: '419831325497007959'
+lifecycle_stage: active
+run_id: c5077ce6a9f041e7b76b9ef8bfd1604f
+run_name: intrigued-roo-170
+run_uuid: c5077ce6a9f041e7b76b9ef8bfd1604f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783489161618
+status: 3
+tags: []
+user_id: sunnyappco
